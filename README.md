@@ -1,1 +1,1 @@
-# WDD-artificial-intelligence
+# WDD-AI
